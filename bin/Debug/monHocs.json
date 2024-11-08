@@ -1,0 +1,353 @@
+[
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TOAN10",
+    "tenMonHoc": "TOAN10",
+    "maGV": "GVTOAN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TOAN11",
+    "tenMonHoc": "TOAN11",
+    "maGV": "GVTOAN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TOAN12",
+    "tenMonHoc": "TOAN12",
+    "maGV": "GVTOAN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1LY10",
+    "tenMonHoc": "LY10",
+    "maGV": "GVLY"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1LY11",
+    "tenMonHoc": "LY11",
+    "maGV": "GVLY"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1LY12",
+    "tenMonHoc": "LY12",
+    "maGV": "GVLY"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1HOA10",
+    "tenMonHoc": "HOA10",
+    "maGV": "GVHOA"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1HOA11",
+    "tenMonHoc": "HOA11",
+    "maGV": "GVHOA"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1HOA12",
+    "tenMonHoc": "HOA12",
+    "maGV": "GVHOA"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1VAN10",
+    "tenMonHoc": "VAN10",
+    "maGV": "GVVAN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1VAN11",
+    "tenMonHoc": "VAN11",
+    "maGV": "GVVAN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1VAN12",
+    "tenMonHoc": "VAN12",
+    "maGV": "GVVAN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1SU10",
+    "tenMonHoc": "SU10",
+    "maGV": "GVSU"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1SU11",
+    "tenMonHoc": "SU11",
+    "maGV": "GVSU"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1SU12",
+    "tenMonHoc": "SU12",
+    "maGV": "GVSU"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1DIA10",
+    "tenMonHoc": "DIA10",
+    "maGV": "GVDIA"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1DIA11",
+    "tenMonHoc": "DIA11",
+    "maGV": "GVDIA"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1DIA12",
+    "tenMonHoc": "DIA12",
+    "maGV": "GVDIA"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1SINH10",
+    "tenMonHoc": "SINH10",
+    "maGV": "GVSINH"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1SINH11",
+    "tenMonHoc": "SINH11",
+    "maGV": "GVSINH"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1SINH12",
+    "tenMonHoc": "SINH12",
+    "maGV": "GVSINH"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1ANH10",
+    "tenMonHoc": "ANH10",
+    "maGV": "GVANH"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1ANH11",
+    "tenMonHoc": "ANH11",
+    "maGV": "GVANH"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1ANH12",
+    "tenMonHoc": "ANH12",
+    "maGV": "GVANH"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1CD10",
+    "tenMonHoc": "CD10",
+    "maGV": "GVCD"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1CD11",
+    "tenMonHoc": "CD11",
+    "maGV": "GVCD"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1CD12",
+    "tenMonHoc": "CD12",
+    "maGV": "GVCD"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1CN10",
+    "tenMonHoc": "CN10",
+    "maGV": "GVCN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1CN11",
+    "tenMonHoc": "CN11",
+    "maGV": "GVCN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1CN12",
+    "tenMonHoc": "CN12",
+    "maGV": "GVCN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1QP10",
+    "tenMonHoc": "QP10",
+    "maGV": "GVQP"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1QP11",
+    "tenMonHoc": "QP11",
+    "maGV": "GVQP"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1QP12",
+    "tenMonHoc": "QP12",
+    "maGV": "GVQP"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TC10",
+    "tenMonHoc": "TC10",
+    "maGV": "GVTC"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TC11",
+    "tenMonHoc": "TC11",
+    "maGV": "GVTC"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TC12",
+    "tenMonHoc": "TC12",
+    "maGV": "GVTC"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TIN10",
+    "tenMonHoc": "TIN10",
+    "maGV": "GVTIN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TIN11",
+    "tenMonHoc": "TIN11",
+    "maGV": "GVTIN"
+  },
+  {
+    "maNamHoc": "NH2024",
+    "tenNamHoc": 2024,
+    "maHK": "2024HK1",
+    "tenHK": "HK1",
+    "maMonHoc": "2024HK1TIN12",
+    "tenMonHoc": "TIN12",
+    "maGV": "GVTIN"
+  }
+]
