@@ -1,0 +1,46 @@
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\oop_final.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\oop_final.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\oop_final.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\oop_final.csproj.Up2Date
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\1111\bin\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\1111\bin\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\1111\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\1111\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\1111\obj\Debug\oop_final.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\ADMIN\Desktop\1111\obj\Debug\oop_final.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\1111\obj\Debug\oop_final.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\1111\obj\Debug\oop_final.csproj.Up2Date
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\1111\obj\Debug\Thiet_ke.pdb

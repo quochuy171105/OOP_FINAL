@@ -1,0 +1,349 @@
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.GiaoVien.resources
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.Properties.Resources.resources
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+D:\OOP\Thiet_ke\bin\Debug\Thiet_ke.exe.config
+D:\OOP\Thiet_ke\bin\Debug\Thiet_ke.exe
+D:\OOP\Thiet_ke\bin\Debug\Thiet_ke.pdb
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.exe
+D:\OOP\Thiet_ke\obj\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\bin\Debug\Thiet_ke.exe.config
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\bin\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\bin\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.GiaoVien.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.NhapLop.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.ThemMon.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.SuaMon.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.XoaMon.resources
+C:\Users\Hi\Documents\Lập trình hướng đối tượng\Thiet_ke\obj\Debug\Thiet_ke.XemDiem_HS.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.exe
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.pdb
+D:\github_repo\doAn-master\bin\Debug\Thiet_ke.exe.config
+D:\github_repo\doAn-master\bin\Debug\Thiet_ke.exe
+D:\github_repo\doAn-master\bin\Debug\Thiet_ke.pdb
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.AccountGV.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.AccountHS.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.DangNhap.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.GiaoVien.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.NhapDiem.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.Properties.Resources.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.NhapLop.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.SuaHs.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.SuaLop.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.SuaMon.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.ThemHs.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.ThemMon.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.XemDiem_HS.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.XoaHs.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.XoaLop.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.XoaMon.resources
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+D:\github_repo\doAn-master\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+D:\github_repo\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+D:\github_repo\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+D:\github_repo\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+D:\github_repo\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+D:\github_repo\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+D:\github_repo\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CopyComplete
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CopyComplete
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\OOP\Cuoi_ky\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+D:\OOP\Do_an_final2\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+D:\OOP\Do_an_final2\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+D:\OOP\Do_an_final2\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+D:\OOP\Do_an_final2\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+D:\OOP\Do_an_final2\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.Up2Date
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+D:\OOP\Do_an_final2\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CopyComplete
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\OOP\Cuoi_ky_2\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+C:\Users\dell\Documents\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+C:\Users\dell\Documents\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+C:\Users\dell\Documents\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+C:\Users\dell\Documents\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\Documents\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.Up2Date
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+C:\Users\dell\Documents\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CopyComplete
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+C:\Users\Hi\Documents\OOP\Cuoi_ky_5\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.Up2Date
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+C:\Users\Administrator\Source\Repos\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+D:\OOP\Do_an_final7\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+D:\OOP\Do_an_final7\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+D:\OOP\Do_an_final7\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+D:\OOP\Do_an_final7\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+D:\OOP\Do_an_final7\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.Up2Date
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+D:\OOP\Do_an_final7\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+D:\OOP\Do_an_final9\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe.config
+D:\OOP\Do_an_final9\Do_An_OOP_Final\bin\Debug\Thiet_ke.exe
+D:\OOP\Do_an_final9\Do_An_OOP_Final\bin\Debug\Thiet_ke.pdb
+D:\OOP\Do_an_final9\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.dll
+D:\OOP\Do_an_final9\Do_An_OOP_Final\bin\Debug\Newtonsoft.Json.xml
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountGV.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.AccountHS.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.DangNhap.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.QuanLyDiem.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.NhapDiem.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.Properties.Resources.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemLop.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaHs.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.SuaLop.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.ThemHs.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.XemDiem_HS.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaHs.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.XoaLop.resources
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.csproj.Up2Date
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.exe
+D:\OOP\Do_an_final9\Do_An_OOP_Final\obj\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\bin\Debug\Thiet_ke.exe.config
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\bin\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\bin\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\lập trình hướng đối tượng oop\DoAnCuoiKy\obj\Debug\Thiet_ke.csproj.Up2Date
+C:\Users\ADMIN\Desktop\New folder\bin\Debug\Thiet_ke.exe.config
+C:\Users\ADMIN\Desktop\New folder\bin\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\New folder\bin\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\New folder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\New folder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.csproj.Up2Date
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\New folder\obj\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Thiet_ke.exe
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Thiet_ke.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\New folder (2)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.AccountGV.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.AccountHS.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.DangNhap.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.QuanLyDiem.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.NhapDiem.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.ThemLop.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.SuaHs.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.SuaLop.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.ThemHs.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.XemDiem_HS.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.XoaHs.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.XoaLop.resources
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder (2)\obj\Debug\Thiet_ke.csproj.Up2Date
